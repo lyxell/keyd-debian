@@ -1,3 +1,5 @@
+keyd_*_amd64
+*.deb
 *.swp
 *.swn
 *.swo

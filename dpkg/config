@@ -1,0 +1,11 @@
+[ids]
+
+*
+
+[main]
+
+# Maps capslock to escape when pressed and control when held more than 180 ms
+capslock = overloadt(control, esc, 180)
+
+# Remaps the escape key to capslock
+esc = capslock

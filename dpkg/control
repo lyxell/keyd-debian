@@ -1,0 +1,5 @@
+Package: keyd
+Version: 2.5.0
+Architecture: amd64
+Maintainer: Anton Lyxell <git@lyxell.dev>
+Description: keyd
